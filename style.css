@@ -190,7 +190,7 @@ nav {
 
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.6)),
-    url(assetts/images/church.webp);
+    url(assets/images/church.webp);
   background-size: cover;
   background-repeat: none;
   background-position: center center;
